@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/42088417d9ff608a137b0af539134ad4/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fc67d48a2861ec0c41d95bc5c9478da6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c747a6a8491409b17ad2fe4de48c30d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/debc2b62668442547e4bceee23616f4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/09c15c6f4098bc80808af8990b079b0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e9c07da7b9b4b34ed4c44c697aff8ab7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fbaecff87cc6497305f5c359d9da06b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/650644f2113254ad3e8b523b09ff3207/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5ff6e9938c69aaa1d99b607a5da8435f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d96b816530b7be69bbc72db95913e4b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aa8612d26641fc9b375684b310ca2f3a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/8d82870f2a37283b68ccd4a9e2559b8e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/22d4477e8b1b878f2f49e894eaf315ef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1c5bdaa09932d8a4042c6573eba71e27/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b8ed7f54fd0f5a93aff67885dc8180cf/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8f69a14df73251897542f3318ade301f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5190e08b7ee4f55e71408f25366eaceb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8cd9fdc5d2418e7fa4b080933c1d6dab/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0a70ac17f28b5c005cf413826c6299d6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f3079a72f49de3ff9cb6304b88cda99f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/42088417d9ff608a137b0af539134ad4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/42088417d9ff608a137b0af539134ad4/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/42088417d9ff608a137b0af539134ad4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/42088417d9ff608a137b0af539134ad4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1c5bdaa09932d8a4042c6573eba71e27/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1c5bdaa09932d8a4042c6573eba71e27/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b8ed7f54fd0f5a93aff67885dc8180cf/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b8ed7f54fd0f5a93aff67885dc8180cf/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/42088417d9ff608a137b0af539134ad4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/42088417d9ff608a137b0af539134ad4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fc67d48a2861ec0c41d95bc5c9478da6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fc67d48a2861ec0c41d95bc5c9478da6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c747a6a8491409b17ad2fe4de48c30d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c747a6a8491409b17ad2fe4de48c30d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/debc2b62668442547e4bceee23616f4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/debc2b62668442547e4bceee23616f4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/09c15c6f4098bc80808af8990b079b0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/09c15c6f4098bc80808af8990b079b0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e9c07da7b9b4b34ed4c44c697aff8ab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e9c07da7b9b4b34ed4c44c697aff8ab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fbaecff87cc6497305f5c359d9da06b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fbaecff87cc6497305f5c359d9da06b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/650644f2113254ad3e8b523b09ff3207/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/650644f2113254ad3e8b523b09ff3207/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5ff6e9938c69aaa1d99b607a5da8435f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5ff6e9938c69aaa1d99b607a5da8435f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d96b816530b7be69bbc72db95913e4b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d96b816530b7be69bbc72db95913e4b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aa8612d26641fc9b375684b310ca2f3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aa8612d26641fc9b375684b310ca2f3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/8d82870f2a37283b68ccd4a9e2559b8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/8d82870f2a37283b68ccd4a9e2559b8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/22d4477e8b1b878f2f49e894eaf315ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/22d4477e8b1b878f2f49e894eaf315ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1c5bdaa09932d8a4042c6573eba71e27/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1c5bdaa09932d8a4042c6573eba71e27/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8f69a14df73251897542f3318ade301f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8f69a14df73251897542f3318ade301f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5190e08b7ee4f55e71408f25366eaceb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5190e08b7ee4f55e71408f25366eaceb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8cd9fdc5d2418e7fa4b080933c1d6dab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8cd9fdc5d2418e7fa4b080933c1d6dab/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0a70ac17f28b5c005cf413826c6299d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0a70ac17f28b5c005cf413826c6299d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f3079a72f49de3ff9cb6304b88cda99f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/andrelemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f3079a72f49de3ff9cb6304b88cda99f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/andrelemos/Documents/ReactNative/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
